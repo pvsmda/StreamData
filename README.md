@@ -1,4 +1,4 @@
-# <h1 align="center">SavePass</h1>
+# <h1 align="center">StreamData</h1>
 <p align='center'>O projeto StreamData é uma aplicação mobile, que tem por objetivo o treino de login social com Oauth e juntamente com a API da Twitch</p>
 
 ## 💻 Projeto
